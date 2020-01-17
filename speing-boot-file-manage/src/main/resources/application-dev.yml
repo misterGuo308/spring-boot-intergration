@@ -1,0 +1,8 @@
+http:
+  file:
+    upload:
+      url: D:/app/file/
+    download:
+      path: http://localhost:8099/file/download
+
+
